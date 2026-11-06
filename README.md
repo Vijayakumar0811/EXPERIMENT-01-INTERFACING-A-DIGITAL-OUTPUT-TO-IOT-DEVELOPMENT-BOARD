@@ -121,7 +121,13 @@ int main(void)
 ```
 ## OUTPUT
 
+<img width="959" height="564" alt="Screenshot 2026-10-31 091749" src="https://github.com/user-attachments/assets/69357f7f-4ed1-4451-8cb9-4685064ef095" />
+<img width="896" height="565" alt="Screenshot 2026-10-31 081632" src="https://github.com/user-attachments/assets/f21795fe-33b4-40d6-ba70-15490ad5f5fe" />
+
+OFF MODE:
 <img width="960" height="1280" alt="WhatsApp Image 2026-11-06 at 8 15 53 AM" src="https://github.com/user-attachments/assets/1bbfbc9b-1f1b-4644-b0de-36a70c673c16" />
+
+ON MODE:
 <img width="960" height="1280" alt="WhatsApp Image 2026-11-06 at 8 15 44 AM" src="https://github.com/user-attachments/assets/8bb1390e-44dd-4f14-a9f2-636145c70068" />
 
 
